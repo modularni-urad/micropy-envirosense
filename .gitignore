@@ -1,0 +1,10 @@
+venv
+migrate
+media
+static
+**/*.pyc
+.project
+.pydevproject
+/.settings
+/sqlite.db
+pyboard.py
