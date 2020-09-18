@@ -6,6 +6,10 @@ PyBoard ($9, running [micropython](http://micropython.org/)) based device sensin
 - noise
 - TODO..
 
+#### LoRa connection
+Nekolik ks osazenych https://www.tindie.com/products/DrAzzy/rn2483-breakout-bare-board/
+Nebo alternativa (doexperimentovat): LoRa modul SX1276 + WAN implementace jako knihovna v MCU.
+
 ![overview](./pics/overview.jpg)
 ![detail](./pics/detail.jpg)
 
@@ -32,3 +36,7 @@ https://forum.micropython.org/viewtopic.php?t=4144
 https://github.com/aizukanne/ESP32-micropython-lora
 https://github.com/mallagant/uLoRaWAN
 https://medium.com/gowombat/iot-lora-with-micropython-on-the-esp8266-and-esp32-59d1a4b507ca
+
+Brainstorm dokumenty:
+https://docs.google.com/document/d/1pF_UjhEmnwvRKELV9iwkjFdgDIjeJpardr_JQ9LFgzI/edit
+https://docs.google.com/document/d/1ZG-MrM6UnbTOYpQVG2sRkgkO5HKnYeKKxtdgV-Pe9vE/edit
